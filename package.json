@@ -4,8 +4,8 @@
   "description": "Basic Node.js Express app for Railway deployment testing",
   "main": "src/app.js",
   "scripts": {
-    "start": "node src/app.js",
-    "dev": "node src/app.js",
+    "start": "node src/simple-app.js",
+    "dev": "node src/simple-app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
